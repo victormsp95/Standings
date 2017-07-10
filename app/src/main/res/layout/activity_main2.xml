@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.alberto.standings.MainActivity">
+    tools:context="com.alberto.standings.Main2Activity">
 
 
 
@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/Liga"
-            android:text="Liga Nacional"
+            android:text="Liga Americana"
             android:layout_gravity="center"
             android:textSize="20sp"
             android:textStyle="bold"/>
